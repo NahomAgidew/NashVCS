@@ -1,0 +1,9 @@
+b:\users\nahom\documents\visual studio 2010\Projects\NashVCS\NashVCS\bin\Debug\NashVCS.exe
+b:\users\nahom\documents\visual studio 2010\Projects\NashVCS\NashVCS\bin\Debug\NashVCS.pdb
+b:\users\nahom\documents\visual studio 2010\Projects\NashVCS\NashVCS\obj\x86\Debug\NashVCS.Form1.resources
+b:\users\nahom\documents\visual studio 2010\Projects\NashVCS\NashVCS\obj\x86\Debug\NashVCS.Properties.Resources.resources
+b:\users\nahom\documents\visual studio 2010\Projects\NashVCS\NashVCS\obj\x86\Debug\NashVCS.csproj.GenerateResource.Cache
+b:\users\nahom\documents\visual studio 2010\Projects\NashVCS\NashVCS\obj\x86\Debug\NashVCS.exe
+b:\users\nahom\documents\visual studio 2010\Projects\NashVCS\NashVCS\obj\x86\Debug\NashVCS.pdb
+B:\Users\Nahom\Documents\Visual Studio 2010\Projects\NashVCS\NashVCS\bin\Debug\System.Data.SQLite.dll
+B:\Users\Nahom\Documents\Visual Studio 2010\Projects\NashVCS\NashVCS\bin\Debug\System.Data.SQLite.xml
